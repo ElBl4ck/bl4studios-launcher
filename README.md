@@ -1,4 +1,4 @@
-# BL4STudios Launcher
+# BL4Studios Launcher
 
 **BL4STudios Launcher** is a custom Minecraft launcher created using Python and the [minecraft-launcher-lib](https://pypi.org/project/minecraft-launcher-lib/) library.  
 It is a personal educational project designed to provide a lightweight, user-friendly alternative launcher for Minecraft Java Edition.
@@ -19,12 +19,12 @@ It is developed by an independent hobbyist with no affiliation with Mojang, Micr
 ## Website / Social Media
 
 You can follow the project here:
-- GitHub: [(https://github.com/ElBl4ck/bl4studios-launcher)]
+- GitHub: [Bl4Studios Launcher](https://github.com/ElBl4ck/bl4studios-launcher)
 
 ## Contact
 
 For questions or support, please contact me at:  
-📧 your-email@example.com (replace with your real email)
+📧 arredondogarayulises696@gmail.com
 
 ---
 
