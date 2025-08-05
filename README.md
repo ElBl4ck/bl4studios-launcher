@@ -19,7 +19,7 @@ It is developed by an independent hobbyist with no affiliation with Mojang, Micr
 ## Website / Social Media
 
 You can follow the project here:
-- GitHub: [https://github.com/YourUsername/BL4STudios-Launcher](https://github.com/YourUsername/BL4STudios-Launcher)
+- GitHub: [(https://github.com/ElBl4ck/bl4studios-launcher)]
 
 ## Contact
 
